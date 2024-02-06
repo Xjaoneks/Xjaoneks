@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xjaoneks</h1>
-- 🌱 I’m currently learning **HTML, JavaScript, Python**
+- 🌱 I’m currently learning **HTML, Javascript, Lua**
 
-- ⚡ Fun fact **Im completely new**
+- ⚡ Fun fact **Half-Life❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
