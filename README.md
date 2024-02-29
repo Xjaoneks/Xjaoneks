@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xjaoneks</h1>
-- 🌱 I’m currently learning **HTML, Javascript, Lua**
+- 🌱 I’m currently learning **Lua**
 
 - ⚡ Fun fact **Half-Life is my full-life❤️**
 
