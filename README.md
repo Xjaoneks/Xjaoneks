@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **xjaoneks@gmail.com**
 
-- ⚡ Fun fact **Half-Life is my full-life♥️**
+- ⚡ Fun fact **Half-Life is my full-life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
